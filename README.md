@@ -1,3 +1,6 @@
+# 決算公告とかここに出すことで登録しちゃった
+
+
 # Astro Starter Kit: Basics
 
 ```sh
